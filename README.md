@@ -1,1 +1,1 @@
-# tempalte-2
+# template-2
